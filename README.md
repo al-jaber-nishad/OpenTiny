@@ -1,7 +1,5 @@
 # TinyMCE Open Source
 
-![TinyMCE Logo]([https://www.tiny.cloud/images/logos/tinymce-logo.png](https://www.tiny.cloud/docs/images/logos/android-chrome-256x256.png)
-
 TinyMCE Open Source is a self-hosted, customizable rich text editor that provides a powerful WYSIWYG editing experience for web applications. This repository offers an open-source version of TinyMCE for developers who want full control over their editor setup.
 
 ## 🚀 Features
